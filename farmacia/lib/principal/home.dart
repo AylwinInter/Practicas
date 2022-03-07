@@ -37,7 +37,7 @@ Widget getAppBar() {
           mainAxisAlignment: MainAxisAlignment.spaceBetween,
           children: [
             Text(
-              "Explorar",
+              "Explorar farmaceuticos",
               style: TextStyle(
                   fontSize: 20,
                   color: Colors.white,
